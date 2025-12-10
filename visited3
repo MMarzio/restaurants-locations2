@@ -1,22 +1,22 @@
 [
   {
-    "name": "Café Marina",
-    "lat": 52.372,
-    "lng": 4.900,
-    "type": "cafe",
-    "water_location": "canal",
+    "name": "Brasserie Milo",
+    "lat": 52.21422,
+    "lng": 4.55741,
+    "type": "restaurant",
+    "water_location": "lake",
     "mooring": true,
-    "approved": true,
-    "website": "https://cafemarina.nl"
+    "suggestions": true,
+    "website": "https://www.brasseriemilo.nl"
   },
   {
-    "name": "Riverside Grill",
-    "lat": 52.376,
-    "lng": 4.894,
+    "name": "Café-Bistro't Wapen",
+    "lat": 52.04167,
+    "lng": 4.72214,
     "type": "restaurant",
-    "water_location": "river",
-    "mooring": false,
-    "approved": true,
-    "website": "https://riversidegrill.com"
+    "water_location": "lake",
+    "mooring": true,
+    "suggestions": true,
+    "website": "http://www.wapenvanreeuwijk.nl"
   }
 ]
