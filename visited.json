@@ -24,7 +24,7 @@
     "lat": 52.13324,
     "lng": 4.46818,
     "type": "restaurant",
-    "water_location": "river/canal",
+    "water_location": "canal",
     "mooring": true,
     "suggestions": true,
     "website": "http://www.allemansgeest.nl/"
