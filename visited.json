@@ -28,5 +28,25 @@
     "mooring": true,
     "suggestions": true,
     "website": "http://www.allemansgeest.nl/"
+  },
+  {
+    "name": "Café de Oude Sluis",
+    "lat": 51.90967,
+    "lng": 4.44897,
+    "type": "cafe",
+    "water_location": "canal",
+    "mooring": false,
+    "suggestions": false,
+    "website": "http://www.cafedeoudesluis.nl/"
+  },
+  {
+    "name": "Café Soif",
+    "lat": 51.91005,
+    "lng": 4.44865,
+    "type": "cafe",
+    "water_location": "canal",
+    "mooring": false,
+    "suggestions": false,
+    "website": "http://www.soif.nl/"
   }
 ]
