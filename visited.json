@@ -128,5 +128,85 @@
     "mooring": false,
     "suggestions": false,
     "website": "http://www.puurraandedobbe.nl/"
+  },
+  {
+    "name": "Restaurant Bo & Ro",
+    "lat": 52.05780,
+    "lng": 4.49310,
+    "type": "restaurant",
+    "water_location": "canal",
+    "mooring": false,
+    "suggestions": false,
+    "website": "https://bo-ro.nl/"
+  },
+  {
+    "name": "PuuRR aan de Binck",
+    "lat": 52.06508,
+    "lng": 4.33770,
+    "type": "restaurant",
+    "water_location": "canal",
+    "mooring": true,
+    "suggestions": false,
+    "website": "https://www.puurraandebinck.nl/"
+  },
+  {
+    "name": "PuuRR aan de Vliet",
+    "lat": 52.08181,
+    "lng": 4.40212,
+    "type": "restaurant",
+    "water_location": "canal",
+    "mooring": true,
+    "suggestions": false,
+    "website": "https://puurraandevliet.nl/"
+  },
+  {
+    "name": "BOATHOUSE",
+    "lat": 52.21778,
+    "lng": 4.93726,
+    "type": "restaurant",
+    "water_location": "lake",
+    "mooring": true,
+    "suggestions": false,
+    "website": "https://www.boathousevinkeveen.nl/"
+  },
+  {
+    "name": "Hotel Restaurant De Watergeus",
+    "lat": 52.16142,
+    "lng": 4.81214,
+    "type": "restaurant",
+    "water_location": "lake",
+    "mooring": true,
+    "suggestions": false,
+    "website": "http://www.dewatergeus.nl/"
+  },
+  {
+    "name": "Restaurant Tijsterman",
+    "lat": 52.15254,
+    "lng": 4.78399,
+    "type": "restaurant",
+    "water_location": "lake",
+    "mooring": true,
+    "suggestions": false,
+    "website": "http://restaurant-tijsterman.nl/"
+  },
+  {
+    "name": "VINN Restaurant & Bar",
+    "lat": 52.15009,
+    "lng": 4.78037,
+    "type": "restaurant",
+    "water_location": "lake",
+    "mooring": true,
+    "suggestions": false,
+    "website": "https://vinnaanhetwater.nl/"
+  },
+  {
+    "name": "Bistrotel 't Amsterdammertje",
+    "lat": 52.19643,
+    "lng": 5.00764,
+    "type": "restaurant",
+    "water_location": "canal",
+    "mooring": false,
+    "suggestions": false,
+    "website": "https://bistrotelamsterdammertje.nl/"
   }
 ]
