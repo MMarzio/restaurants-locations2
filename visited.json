@@ -43,10 +43,90 @@
     "name": "Café Soif",
     "lat": 51.91005,
     "lng": 4.44865,
-    "type": "cafe",
+    "type": "restaurant",
     "water_location": "canal",
     "mooring": false,
     "suggestions": false,
     "website": "http://www.soif.nl/"
+  },
+  {
+    "name": "Lake House Rotterdam",
+    "lat": 51.97207,
+    "lng": 4.51739,
+    "type": "restaurant",
+    "water_location": "lake",
+    "mooring": false,
+    "suggestions": false,
+    "website": "https://www.lakehouserotterdam.nl/"
+  },
+  {
+    "name": "Eten & drinken de Roerdomp",
+    "lat": 52.00702,
+    "lng": 4.56008,
+    "type": "restaurant",
+    "water_location": "lake",
+    "mooring": true,
+    "suggestions": false,
+    "website": "http://www.etenendrinkenderoerdomp.nl/"
+  },
+  {
+    "name": "Vidaa Lago",
+    "lat": 51.99921,
+    "lng": 4.55093,
+    "type": "restaurant",
+    "water_location": "lake",
+    "mooring": true,
+    "suggestions": false,
+    "website": "http://www.vidaa.nl/"
+  },
+  {
+    "name": "Restaurant Meerenbos",
+    "lat": 52.01418,
+    "lng": 4.55593,
+    "type": "restaurant",
+    "water_location": "lake",
+    "mooring": true,
+    "suggestions": false,
+    "website": "http://www.restaurantmeerenbos.nl/"
+  },
+  {
+    "name": "Restaurant christian in De Nieuwe Veenmolen",
+    "lat": 52.08450,
+    "lng": 4.35088,
+    "type": "restaurant",
+    "water_location": "canal",
+    "mooring": false,
+    "suggestions": false,
+    "website": "https://nieuweveenmolen.nl/"
+  },
+  {
+    "name": "SAUS - Aan 't water",
+    "lat": 51.48274,
+    "lng": 4.27992,
+    "type": "restaurant",
+    "water_location": "lake",
+    "mooring": false,
+    "suggestions": false,
+    "website": "http://www.sausetenendrinken.nl/"
+  },
+  {
+    "name": "Restaurant Chung",
+    "lat": 51.92313,
+    "lng": 4.48223,
+    "type": "restaurant",
+    "water_location": "canal",
+    "mooring": false,
+    "suggestions": false,
+    "website": "http://www.restaurantchung.nl/"
+  },
+  {
+    "name": "PuuRR aan de Dobbe",
+    "lat": 52.05950,
+    "lng": 4.49416,
+    "type": "restaurant",
+    "water_location": "lake",
+    "mooring": false,
+    "suggestions": false,
+    "website": "http://www.puurraandedobbe.nl/"
   }
 ]
