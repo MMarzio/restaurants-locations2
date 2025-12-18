@@ -218,5 +218,15 @@
     "mooring": true,
     "suggestions": false,
     "website": "http://www.waterlustdekaag.nl/"
+  },
+  {
+    "name": "Brasserie Vennemeer",
+    "lat": 52.18970,
+    "lng": 4.54681,
+    "type": "restaurant",
+    "water_location": "lake",
+    "mooring": true,
+    "suggestions": false,
+    "website": "https://brasserievennemeer.nl/"
   }
 ]
