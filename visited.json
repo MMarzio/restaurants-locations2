@@ -208,5 +208,15 @@
     "mooring": false,
     "suggestions": false,
     "website": "https://bistrotelamsterdammertje.nl/"
+  },
+  {
+    "name": "Waterlust de Kaagsociëteit",
+    "lat": 52.19718,
+    "lng": 4.53712,
+    "type": "restaurant",
+    "water_location": "lake",
+    "mooring": true,
+    "suggestions": false,
+    "website": "http://www.waterlustdekaag.nl/"
   }
 ]
