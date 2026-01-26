@@ -248,5 +248,35 @@
     "mooring": true,
     "suggestions": false,
     "website": "http://www.aandezweth.nl/"
+  },
+  {
+    "name": "De Prins Van Terbregge",
+    "lat": 51.95621,
+    "lng": 4.51854,
+    "type": "restaurant",
+    "water_location": "canal",
+    "mooring": true,
+    "suggestions": false,
+    "website": "http://www.deprinsvanterbregge.nl/"
+  },
+  {
+    "name": "Glasz",
+    "lat": 51.95362,
+    "lng": 4.49491,
+    "type": "restaurant",
+    "water_location": "lake",
+    "mooring": true,
+    "suggestions": false,
+    "website": "https://glaszrotterdam.nl/"
+  },
+  {
+    "name": "Rijntje",
+    "lat": 51.94619,
+    "lng": 4.48994,
+    "type": "restaurant",
+    "water_location": "canal",
+    "mooring": false,
+    "suggestions": false,
+    "website": "http://www.rijntjerotterdam.nl/"
   }
 ]
