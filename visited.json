@@ -228,5 +228,25 @@
     "mooring": true,
     "suggestions": false,
     "website": "https://brasserievennemeer.nl/"
+  },
+  {
+    "name": "Lola's Abbenes",
+    "lat": 52.21763,
+    "lng": 4.60163,
+    "type": "restaurant",
+    "water_location": "canal",
+    "mooring": true,
+    "suggestions": false,
+    "website": "http://www.restaurantlolas.nl/"
+  },
+  {
+    "name": "Restaurant Aan de Zweth",
+    "lat": 51.96290,
+    "lng": 4.39369,
+    "type": "restaurant",
+    "water_location": "canal",
+    "mooring": true,
+    "suggestions": false,
+    "website": "http://www.aandezweth.nl/"
   }
 ]
