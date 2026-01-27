@@ -278,5 +278,15 @@
     "mooring": false,
     "suggestions": false,
     "website": "http://www.rijntjerotterdam.nl/"
+  },
+  {
+    "name": "Restaurant De Knip",
+    "lat": 52.10918,
+    "lng": 4.44349,
+    "type": "restaurant",
+    "water_location": "canal",
+    "mooring": true,
+    "suggestions": false,
+    "website": "https://www.restaurantdeknip.nl/"
   }
 ]
