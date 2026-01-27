@@ -281,8 +281,8 @@
   },
   {
     "name": "Restaurant De Knip",
-    "lat": 52.10918,
-    "lng": 4.44349,
+    "lat": 52.10681,
+    "lng": 4.43487,
     "type": "restaurant",
     "water_location": "canal",
     "mooring": true,
