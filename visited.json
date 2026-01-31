@@ -288,5 +288,55 @@
     "mooring": true,
     "suggestions": false,
     "website": "https://www.restaurantdeknip.nl/"
+  },
+  {
+    "name": "Vlot Grand Café",
+    "lat": 52.16144,
+    "lng": 4.48519,
+    "type": "cafe",
+    "water_location": "canal",
+    "mooring": false,
+    "suggestions": false,
+    "website": "http://www.vlotleiden.nl/"
+  },
+  {
+    "name": "Einstein Leiden",
+    "lat": 52.15845,
+    "lng": 4.49203,
+    "type": "restaurant",
+    "water_location": "canal",
+    "mooring": false,
+    "suggestions": false,
+    "website": "http://www.einstein.nu/"
+  },
+  {
+    "name": "WAAG",
+    "lat": 52.15947,
+    "lng": 4.49072,
+    "type": "restaurant",
+    "water_location": "canal",
+    "mooring": false,
+    "suggestions": false,
+    "website": "https://www.waagleiden.nl/"
+  },
+  {
+    "name": "Annie's",
+    "lat": 52.15948,
+    "lng": 4.49148,
+    "type": "restaurant",
+    "water_location": "canal",
+    "mooring": false,
+    "suggestions": false,
+    "website": "https://www.annies.nu/"
+  },
+  {
+    "name": "Woods Restaurant",
+    "lat": 52.15696,
+    "lng": 4.47235,
+    "type": "restaurant",
+    "water_location": "canal",
+    "mooring": true,
+    "suggestions": false,
+    "website": "http://www.restaurantwoods.nl/"
   }
 ]
